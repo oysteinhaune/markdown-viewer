@@ -1,0 +1,12 @@
+#preview {
+  border: 1px solid black;
+  width: 430px;
+  min-height: 320px;
+  margin: auto;
+  text-align: left;
+}
+
+
+img {
+  max-height: 100px;
+}

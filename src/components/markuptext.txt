@@ -1,0 +1,21 @@
+# H1 Title
+
+## H2 Title
+
+<http://freecodecamp.org/>
+
+inline `code`
+
+```
+function() {
+  const = "A code block";
+}
+```
+
+1.A list item
+
+>A blockquote
+
+![Alt text](http://tiny.cc/cd0soz)
+
+**Bolded text**
